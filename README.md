@@ -1,7 +1,7 @@
 # AI4Chem
 AI4Chem is a code to test the ability of large language models (ChatGPT) to comprehend Chemistry.
 
-<img src="Can ChatGPT answer Chemistry questions.jpg" alt="drawing" width="200"/>
+<img src="Can ChatGPT answer Chemistry questions.jpg" alt="drawing" width="600"/>
 
 [![DOI](https://zenodo.org/badge/606507245.svg)](https://zenodo.org/badge/latestdoi/606507245)
 
