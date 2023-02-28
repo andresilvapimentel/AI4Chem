@@ -3,7 +3,7 @@ AI4Chem is a code to test the ability of large language models (ChatGPT) to comp
 
 <img src="Can ChatGPT answer Chemistry questions.jpg" alt="drawing" width="600"/>
 
-[![DOI](https://zenodo.org/badge/606507245.svg)](https://zenodo.org/badge/latestdoi/606507245)
+[![DOI](https://zenodo.org/badge/607448581.svg)](https://zenodo.org/badge/latestdoi/607448581)
 
 AI4Chem is a code to generate answers about the general topics of Chemistry using the ChatGPT model.
 
@@ -27,7 +27,7 @@ Or
 
 # License
 
-AI4Chem is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/AI4Chem (https://doi.org/10.5281/zenodo.7677519)
+AI4Chem is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/AI4Chem (https://zenodo.org/badge/latestdoi/607448581)
 
 # Contributors
 
